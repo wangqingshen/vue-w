@@ -1,0 +1,8 @@
+* {margin:0;padding:0;border:0;-webkit-user-select:text; color:#333; /*font-family:'微软雅黑';*/ outline:none; word-break:break-all; word-wrap:break-word; word-break:normal;}
+#app {background-color: rgb(242,242,242)}
+input::-webkit-input-placeholder{color:#cccccc;}
+input::-moz-placeholder{/* Mozilla Firefox 19+ */color:#cccccc;}
+input:-moz-placeholder{/* Mozilla Firefox 4 to 18 */color:#cccccc;}
+input:-ms-input-placeholder{ /* Internet Explorer 10-11 */ color:#cccccc;}
+#app p {margin-bottom: 0;}
+#app a:hover {text-decoration: none;}
